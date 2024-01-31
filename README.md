@@ -1,2 +1,2 @@
 # secured
-A algorithmic project in C consisting in finding the largest square in a map as quickly as possible.
+A algorithmic project in C consisting in securing data with a hash table.
